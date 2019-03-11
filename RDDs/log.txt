@@ -1,0 +1,4 @@
+Warning:No esta implementado IPV6
+Error:No funciona
+Warning:Algo falla en la direccion 127.0.0.1
+Error: El usuario 'root' no tiene permisos para ver este directorio
